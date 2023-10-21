@@ -1,7 +1,7 @@
 # TicTacToe
 Tic Tac Toe Game - C
 
-🎮 Try the game: https://replit.com/@mohamedahshams/TicTacToe
+🎮 Try the game: https://replit.com/@mohamedahshams/TicTacToe?v=1
 
 ## Overview
 TicTacToe is a classic two-player game implemented in C. It allows two players to play Tic Tac Toe on the command line.
