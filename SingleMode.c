@@ -230,7 +230,7 @@ void ComputerEasyMode(){
 }
 
 void HardPlay(){
-	if (1 == flag && Board[1][1] != PlayerSymbol[0])
+	if (flag ==1 && Board[1][1] != PlayerSymbol[0])
 	{
         Board[1][1] = ComputerSymbol[0];
         flag++;
